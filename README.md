@@ -1,16 +1,157 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**YasmimSantos5/YasmimSantos5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💜 Olá, eu sou a Yasmim!
 
-Here are some ideas to get you started:
+### 👩‍💻 Desenvolvedora em formação
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Formada em **Gestão da Tecnologia**  
+📚 Técnica em **Desenvolvimento de Sistemas**
+
+💼 Em busca da minha primeira oportunidade como Desenvolvedora Júnior ou Estagiária em Tecnologia.
+
+---
+
+<p>
+<img src="https://readme-typing-svg.demolab.com>font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Bem-vindo(a)+ao+meu+GitHub!;Desenvolvedora+em+formação;Apaixonada+por+Tecnologia;Sempre+aprendendo+algo+novo!+🚀" />
+</p>
+
+</div>
+
+---
+
+# 💜 Sobre mim
+
+Sou formada em **Gestão da Tecnologia** e atualmente curso o **Técnico em Desenvolvimento de Sistemas**.
+
+Tenho interesse em desenvolvimento Web e Mobile, buscando construir soluções que unam tecnologia, organização e boa experiência para o usuário.
+
+Estou constantemente estudando novas tecnologias e desenvolvendo projetos para aprimorar minhas habilidades.
+
+---
+
+# 🚀 Tecnologias
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,kotlin,html,css,js,mysql,git,github,vscode,figma,azure"/>
+
+</div>
+
+---
+
+# 📚 Atualmente estudando
+
+🌱 ASP.NET Core
+
+🌱 APIs REST
+
+🌱 Entity Framework
+
+🌱 SQL Avançado
+
+🌱 Power BI
+
+🌱 Azure
+
+---
+
+# 💼 Projetos
+
+## 💜 Manage Smart
+
+Sistema de Gestão de Recursos Humanos.
+
+✔ ASP.NET MVC
+
+✔ C#
+
+✔ MySQL
+
+✔ HTML
+
+✔ CSS
+
+✔ JavaScript
+
+---
+
+## 🏢 Sistema de Condomínio
+
+Aplicativo Android desenvolvido em Kotlin.
+
+✔ Login
+
+✔ Cadastro
+
+✔ Navegação entre telas
+
+✔ Interface Material Design
+
+✔ Android Studio
+
+✔ Kotlin
+
+---
+
+## 🌐 Projeto ASP.NET
+
+Sistema Web desenvolvido em ASP.NET.
+
+✔ Login
+
+✔ CRUD
+
+✔ Banco de Dados
+
+✔ MySQL
+
+✔ Arquitetura MVC
+
+---
+
+# 📊 Estatísticas
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YasmimSantos5&show_icons=true&theme=midnight-purple&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasmimSantos5&layout=compact&theme=midnight-purple&hide_border=true"/>
+
+</div>
+
+---
+
+# 🛠 Ferramentas
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,androidstudio,figma"/>
+
+</div>
+
+---
+
+# 📫 Contato
+
+<div align="center">
+
+<a href="SEU_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:SEU_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💜 "A tecnologia transforma ideias em soluções."
+
+⭐ Obrigada por visitar meu perfil!
+
+</div>
+
