@@ -47,9 +47,9 @@ Estou constantemente estudando novas tecnologias e desenvolvendo projetos para a
 
 🌱 Entity Framework
 
-🌱 SQL Avançado
+🌱 SQL 
 
-🌱 Power BI
+🌱 Kotlin
 
 🌱 Azure
 
@@ -108,16 +108,13 @@ Sistema Web desenvolvido em ASP.NET.
 ✔ Arquitetura MVC
 
 ---
+## 📊 Estatísticas
 
-# 📊 Estatísticas
+<p align="center">
 
-<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YasmimSantos5&theme=github_dark"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YasmimSantos5&show_icons=true&theme=midnight-purple&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasmimSantos5&layout=compact&theme=midnight-purple&hide_border=true"/>
-
-</div>
+</p>
 
 ---
 
@@ -139,7 +136,7 @@ Sistema Web desenvolvido em ASP.NET.
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:SEU_EMAIL">
+<a href="mailto:Yasmimgrilo@hotmailcom">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
