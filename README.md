@@ -1,19 +1,13 @@
 <div align="center">
 
-# 💜 Olá, eu sou a Yasmim!
+# 💜 Olá, eu sou a Yasmim Santos!
 
-### 👩‍💻 Desenvolvedora em formação
+### 👩‍💻 Desenvolvedora em Formação
 
-🎓 Formada em **Gestão da Tecnologia**  
-📚 Técnica em **Desenvolvimento de Sistemas**
+🎓 **Formada em Gestão da Tecnologia**  
+📚 **Técnica em Desenvolvimento de Sistemas**
 
-💼 Em busca da minha primeira oportunidade como Desenvolvedora Júnior ou Estagiária em Tecnologia.
-
----
-
-<p>
-<img src="https://readme-typing-svg.demolab.com>font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Bem-vindo(a)+ao+meu+GitHub!;Desenvolvedora+em+formação;Apaixonada+por+Tecnologia;Sempre+aprendendo+algo+novo!+🚀" />
-</p>
+💼 Buscando uma oportunidade como **Desenvolvedora Júnior ou Estagiária em Tecnologia**
 
 </div>
 
@@ -21,134 +15,119 @@
 
 # 💜 Sobre mim
 
-Sou formada em **Gestão da Tecnologia** e atualmente curso o **Técnico em Desenvolvimento de Sistemas**.
+Olá! Sou **Yasmim Santos**, formada em **Gestão da Tecnologia** e atualmente cursando o **Técnico em Desenvolvimento de Sistemas**.
 
-Tenho interesse em desenvolvimento Web e Mobile, buscando construir soluções que unam tecnologia, organização e boa experiência para o usuário.
+Tenho interesse em desenvolvimento **Web e Mobile**, buscando criar soluções eficientes, organizadas e com uma boa experiência para o usuário.
 
-Estou constantemente estudando novas tecnologias e desenvolvendo projetos para aprimorar minhas habilidades.
+Durante minha jornada, venho desenvolvendo projetos utilizando **C#, ASP.NET, Kotlin, SQL, MySQL, HTML, CSS e JavaScript**, aprimorando meus conhecimentos em programação, banco de dados e desenvolvimento de sistemas.
+
+🚀 Estou sempre buscando aprender novas tecnologias, melhorar minhas habilidades e transformar ideias em projetos reais.
 
 ---
 
-# 🚀 Tecnologias
+# 🚀 Tecnologias & Ferramentas
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=cs,dotnet,kotlin,html,css,js,mysql,git,github,vscode,figma,azure"/>
-
-</div>
+| Área | Tecnologias |
+|:---|:---|
+| **Back-End** | <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/> |
+| **Front-End** | <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> |
+| **Mobile** | <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/> |
+| **Banco de Dados** | <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> |
+| **Ferramentas** | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> |
 
 ---
 
 # 📚 Atualmente estudando
 
-🌱 ASP.NET Core
-
-🌱 APIs REST
-
-🌱 Entity Framework
-
-🌱 SQL 
-
-🌱 Kotlin
-
-🌱 Azure
+- 🌱 ASP.NET Core
+- 🌱 APIs REST
+- 🌱 Entity Framework
+- 🌱 SQL e Modelagem de Banco de Dados
+- 🌱 Desenvolvimento Android com Kotlin
+- 🌱 Azure
 
 ---
 
-# 💼 Projetos
+# 💼 Projetos em Destaque
 
 ## 💜 Manage Smart
+Sistema de Gestão de Recursos Humanos desenvolvido em **ASP.NET MVC** para automatizar processos administrativos.
 
-Sistema de Gestão de Recursos Humanos.
+**Tecnologias:** C#, ASP.NET MVC, MySQL, HTML, CSS e JavaScript.
 
-✔ ASP.NET MVC
-
-✔ C#
-
-✔ MySQL
-
-✔ HTML
-
-✔ CSS
-
-✔ JavaScript
+**Principais funcionalidades**
+- ✔ Cadastro de funcionários
+- ✔ Gerenciamento de informações
+- ✔ Controle de dados
+- ✔ Arquitetura MVC
 
 ---
 
 ## 🏢 Sistema de Condomínio
+Aplicativo Android desenvolvido em **Kotlin** para gerenciamento de condomínios.
 
-Aplicativo Android desenvolvido em Kotlin.
+**Tecnologias:** Kotlin, Android Studio e Material Design.
 
-✔ Login
-
-✔ Cadastro
-
-✔ Navegação entre telas
-
-✔ Interface Material Design
-
-✔ Android Studio
-
-✔ Kotlin
+**Principais funcionalidades**
+- ✔ Login
+- ✔ Cadastro
+- ✔ Navegação entre telas
+- ✔ Interface responsiva
 
 ---
 
-## 🌐 Projeto ASP.NET
+## 🌐 Sistema Web ASP.NET
+Aplicação Web desenvolvida utilizando **ASP.NET MVC**.
 
-Sistema Web desenvolvido em ASP.NET.
+**Tecnologias:** C#, ASP.NET MVC e MySQL.
 
-✔ Login
-
-✔ CRUD
-
-✔ Banco de Dados
-
-✔ MySQL
-
-✔ Arquitetura MVC
+**Principais funcionalidades**
+- ✔ CRUD completo
+- ✔ Integração com banco de dados
+- ✔ Validação de dados
+- ✔ Arquitetura MVC
 
 ---
-## 📊 Estatísticas
 
-<p align="center">
+# 📊 Atividade no GitHub
+
+<div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YasmimSantos5&theme=github_dark"/>
 
-</p>
+</div>
 
 ---
 
-# 🛠 Ferramentas
+# 🎯 Objetivos Profissionais
+
+- 💜 Construir uma carreira sólida na área de tecnologia.
+- 💜 Participar de projetos desafiadores.
+- 💜 Evoluir continuamente como desenvolvedora.
+- 💜 Contribuir com soluções inovadoras.
+
+---
+
+# 📫 Vamos nos conectar?
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,androidstudio,figma"/>
+<a href="https://www.linkedin.com/in/yasmim-grilo-dos-santos-535345274">
+<img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:Yasmimgrilo@hotmail.com">
+<img src="https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-# 📫 Contato
-
 <div align="center">
 
-<a href="SEU_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:Yasmimgrilo@hotmailcom">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 💜 "A tecnologia transforma ideias em soluções."
+### 💜 *"A tecnologia transforma ideias em soluções."*
 
 ⭐ Obrigada por visitar meu perfil!
 
 </div>
-
